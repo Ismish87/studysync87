@@ -1,4 +1,7 @@
 # StudySync87
+## Live Demo
+
+https://studysync87.vercel.app
 
 StudySync87 is a simple React + Vite demo app for finding a free meeting time for any group. It does not require accounts and stores Version 1 data in the browser with `localStorage`.
 
