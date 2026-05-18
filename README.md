@@ -3,7 +3,7 @@
 
 ![StudySync87 Home Page](screenshots/screenshotshome.png)
 ![StudySync87 session created Page](screenshots/screenshotssession1.png)
-![StudySync87 session creation Page](screenshots/screenshotssession.png)
+![StudySync87 session creation Page](screenshots/screenshotssession2.png)
 
 ## Live Demo
 
